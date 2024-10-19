@@ -9,6 +9,6 @@ namespace DatabaseAndFileSystemAssignment3.Models
             
         }
 
-        public DbSet<GallaryItems> Kenneths { get; set; }
+        public DbSet<GalleryItem> Kenneths { get; set; }
     }
 }

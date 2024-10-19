@@ -1,6 +1,6 @@
 ﻿namespace DatabaseAndFileSystemAssignment3.Models
 {
-    public class GallaryItems
+    public class GalleryItem
     {
         public int Id { get; set; }
         public string Title { get; set; } 
